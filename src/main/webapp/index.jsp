@@ -4,7 +4,7 @@
 
 <h1><font color='red'> Assignment KUBERNETES: <font></h1>
 
-<h1><font color='red'> This is Version V1.0 <font></h1>
+<h1><font color='red'> This is Version V1.1 <font></h1>
   
   <h2> Thank you</h2>
   
